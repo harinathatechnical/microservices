@@ -1,5 +1,6 @@
 # microservices
 
-Have documentation in wiki link https://github.com/harinathatechnical/microservices/wiki 
+Have documentation in wiki link 
+1) https://github.com/harinathatechnical/microservices/wiki 
 
-https://github.com/harinathatechnical/microservices/wiki/MicroServices-Configuration
+2) https://github.com/harinathatechnical/microservices/wiki/MicroServices-Configuration
